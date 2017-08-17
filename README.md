@@ -18,9 +18,9 @@ If you are using vim in a terminal, you need to set your terminal emulator to us
 
 To install the colorscheme use one of the following ways:
 
-- Placing `northerner.vim` in `~/.vim/colors/`
-- Using the excellent [Plug](https://github.com/junegunn/vim-plug) add `Plug 'daftwooly/vim-northerner'` to your *vimrc*
-- Using `pack` (\>vim8) clone this repo into `~/.vim/pack/foo/start/vim-northerner`
+- Place `northerner.vim` in `~/.vim/colors/`
+- Use the excellent [Plug](https://github.com/junegunn/vim-plug) add `Plug 'daftwooly/vim-northerner'` to your *vimrc*
+- Use `pack` (\>vim8) clone this repo into `~/.vim/pack/foo/start/vim-northerner`
 
 Then add this line to your *vimrc*, after `syntax ...`, `filetype ...` and call `plug#end()` lines:
 
