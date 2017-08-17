@@ -1,4 +1,10 @@
 # Northerner
+Northerner is a dark blue gray theme inspired by arcticice studio's [nord-vim](https://github.com/arcticicestudio/nord-vim) featuring mainly :
+
+- A darker background (too much blue light is [not great for the eyes](http://vspblog.com/blue-light-study/))
+- More visible comments
+- Generated using romainl's [template](https://gist.github.com/romainl/5cd2f4ec222805f49eca)
+
 
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/31094504/29409130-c95b942e-8342-11e7-9405-c4237594f408.png">
