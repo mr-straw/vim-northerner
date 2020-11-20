@@ -14,7 +14,7 @@ The font used is [TermSyn](https://sourceforge.net/projects/termsyn/)
 
 ### Installation
 
-If you are using vim in a terminal, you need to set your terminal emulator to use Northerner instead of the default colours, see [HERE](http://www.github.com/daftwooly/northerner).
+If you are using vim in a terminal, you need to set your terminal emulator to use Northerner instead of the default colours, see [HERE](http://www.github.com/mr-straw/northerner).
 
 To install the colorscheme use one of the following ways:
 

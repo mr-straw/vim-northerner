@@ -1,5 +1,5 @@
 " northerner.vim -- Vim color scheme.
-" Author:      DaftWooly
+" Author:      lutin ()
 " Webpage:     https://github.com/daftwooly
 " Description: influenced by articice studio's nord colors, using Romain Lafoucard's template
 
@@ -57,7 +57,7 @@ let colors_name = "northerner"
     hi IncSearch ctermbg=9 ctermfg=0 cterm=NONE guibg=#d8838c guifg=#3e424b gui=NONE
     hi Search ctermbg=3 ctermfg=0 cterm=NONE guibg=#ebcb8b guifg=#3e424b gui=NONE
     hi Directory ctermbg=NONE ctermfg=6 cterm=NONE guibg=#30353c guifg=#94bcbc gui=NONE
-    hi MatchParen ctermbg=NONE ctermfg=NONE cterm=bold guibg=#bbbfc8 guifg=#30353c gui=bold
+    hi MatchParen ctermbg=8 ctermfg=12 cterm=NONE guibg=#5f6a7f guifg=#7fb6e3 gui=NONE
     hi SpellBad ctermbg=NONE ctermfg=1 cterm=undercurl guibg=#30353c guifg=#a26066 gui=undercurl guisp=NONE
     hi SpellCap ctermbg=NONE ctermfg=5 cterm=undercurl guibg=#30353c guifg=#b48ead gui=undercurl guisp=NONE
     hi SpellLocal ctermbg=NONE ctermfg=5 cterm=undercurl guibg=#30353c guifg=#b48ead gui=undercurl guisp=NONE
