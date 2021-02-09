@@ -47,7 +47,7 @@ let colors_name = "northerner"
     hi PmenuSel ctermbg=8 ctermfg=6 cterm=NONE guibg=#5f6a7f guifg=#94bcbc gui=NONE
     hi PmenuThumb ctermbg=8 ctermfg=NONE cterm=NONE guibg=#5f6a7f guifg=#bbbfc8 gui=NONE
     hi FoldColumn ctermbg=NONE ctermfg=0 cterm=NONE guibg=#30353c guifg=#3e424b gui=NONE
-    hi Folded ctermbg=NONE ctermfg=0 cterm=NONE guibg=#30353c guifg=#3e424b gui=NONE
+    hi Folded ctermbg=NONE ctermfg=13 cterm=NONE guibg=#30353c guifg=#e38ed3 gui=NONE
     hi WildMenu ctermbg=10 ctermfg=0 cterm=NONE guibg=#a3be8c guifg=#3e424b gui=NONE
     hi SpecialKey ctermbg=NONE ctermfg=8 cterm=NONE guibg=#30353c guifg=#5f6a7f gui=NONE
     hi DiffAdd ctermbg=NONE ctermfg=10 cterm=NONE guibg=#30353c guifg=#a3be8c gui=NONE
